@@ -21,3 +21,5 @@ the Random Forest and KNN models produced good results, which
 obtained weighted-F1 scores of 0.822 and 0.847 respectively. Naive
 Bayes performed worse than the previous two models which obtain
 an weighted-F1 score of 0.610.
+
+Full report and the presentation slides along with the codes are included in this repository.
