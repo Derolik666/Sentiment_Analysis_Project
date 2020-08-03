@@ -1,5 +1,22 @@
 # Sentiment_Analysis_Project
 
+## Problem Statement
+
+* Customer reviews not only help buyers to make better purchase decision but also enable companies to improve their products. 
+* Companies need to find an automated way to understand customers' sentiments based on the customer reviews
+* Companies would also like to utlize customer reviews to know what product features are good and what need improvement 
+
+## Solutions
+
+* A classic random forest classifier to predict customers' attitudes based on the customer reviews
+* A LSTM network approach to analyze customers' sentiments
+* An algorithm to extract product features and customers' opinions on those features
+
+## Results
+
+
+
+## Abstract
 Customer reviews not only help buyers to make better purchase
 decision but also enable companies to improve their products. In
 this project, we plan to train a LSTM network on the Amazon
