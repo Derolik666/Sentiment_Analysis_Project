@@ -1,5 +1,7 @@
 # Sentiment_Analysis_Project
 
+[Full report](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Final_Report.pdf) and the [presentation slides](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Presentation.pdf) along with the [codes](Sentiment_Analysis_Project/Codes/) can be accessed here.
+
 ## Problem Statement
 
 * Customer reviews not only help buyers to make better purchase decision but also enable companies to improve their products. 
@@ -51,4 +53,3 @@ obtained weighted-F1 scores of 0.822 and 0.847 respectively. Naive
 Bayes performed worse than the previous two models which obtain
 an weighted-F1 score of 0.610.
 
-[Full report](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Final_Report.pdf) and the [presentation slides](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Presentation.pdf) along with the codes are included in this repository.
