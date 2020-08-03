@@ -1,6 +1,6 @@
 # Sentiment_Analysis_Project
 
-[Full report](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Final_Report.pdf) and the [presentation slides](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Presentation.pdf) along with the [codes](Sentiment_Analysis_Project/Codes/) can be accessed here.
+[Full report](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Final_Report.pdf) and the [presentation slides](https://github.com/Derolik666/Sentiment_Analysis_Project/blob/master/Presentation.pdf) along with the [codes](https://github.com/Derolik666/Sentiment_Analysis_Project/tree/master/Codes) can be accessed here.
 
 ## Problem Statement
 
