@@ -8,14 +8,24 @@
 
 ## Solutions
 
-* A classic random forest classifier to predict customers' attitudes based on the customer reviews
-* A LSTM network approach to analyze customers' sentiments
+* A LSTM network to predict customers' attitudes based on the customer reviews
 * An algorithm to extract product features and customers' opinions on those features
 
 ## Results
+* Feature extraction results of Samsung products
+![Screenshot](Feature_Extraction_Results/Samsung.png)
 
+* Feature extraction results of LG products
+![Screenshot](Feature_Extraction_Results/LG.png)
 
+* Predictive Model Results
 
+| Model        | Accuracy | Precision (Weighted) | Recall (Weighted) | F1 (Weighted) |
+| -------------|----------| ---------------------|-------------------|---------------|
+| Random Forest|  0.815   | 0.838                | 0.815             | 0.822         | 
+| KNN          |  0.862   | 0.846                | 0.852             | 0.847         |
+| Naive Bayes  |  0.674   | 0.628                | 0.674             | 0.610         |
+| LSTM         | **0.877**|**0.895**             |**0.852**          |**0.874**      |
 ## Abstract
 Customer reviews not only help buyers to make better purchase
 decision but also enable companies to improve their products. In
