@@ -12,6 +12,8 @@
 * An algorithm to extract product features and customers' opinions on those features
 
 ## Results
+Here I included results of Samsung and LG for illustration purpose. Results for other brands can be accessed here 
+[Feature_Extraction_Results](https://github.com/Derolik666/Sentiment_Analysis_Project/Feature_Extraction_Results/)
 * Feature extraction results of Samsung products
 ![Screenshot](Feature_Extraction_Results/Samsung.png)
 
